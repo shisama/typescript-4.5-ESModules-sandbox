@@ -2,7 +2,7 @@
 
 ## :warning: THIS IS A POC REPOSITORY :warning:
 
-This is a repository to try experimental feature, ESModules by TypeScript@4.5-beta.
+This is a repository to try experimental feature, ESModules of TypeScript@4.5-beta.
 
 The TypeScript codes are transpiled to ESM/CJS files.
 - The files in [dist/node12](./dist/node12) are transpiled codes when `compilerOptions.mode` is `node12`.
