@@ -2,7 +2,7 @@
   "name": "typescript-4.5-ESModules-sandbox",
   "version": "1.0.0",
   "main": "dist/nodenext/index.js",
-  "author": "Masashi Hirano <cherrydog07@gmail.com>",
+  "author": "Masashi Hirano",
   "license": "MIT",
   "private": true,
   "scripts": {
